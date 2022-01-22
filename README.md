@@ -1,5 +1,4 @@
 ## Automation Testing Actions
-[![.github/workflows/main.yaml](https://github.com/dassusovan/automation-testing-action/actions/workflows/main.yaml/badge.svg)](https://github.com/dassusovan/automation-testing-action/actions/workflows/main.yaml)
 
 Soon will release below Actions
 
