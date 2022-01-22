@@ -13,3 +13,9 @@ Soon will release below Actions
  * K6 
  * Karate 
 
+
+> How to use
+```
+- name: Happy_Testing_susovan
+  uses: dassusovan/automation-testing-action@v1
+```
