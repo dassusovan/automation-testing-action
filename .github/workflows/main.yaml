@@ -9,7 +9,7 @@ jobs:
       id: hello
       uses: dassusovan/automation-testing-action@v1
       with:
-        who-to-greet: 'Susovan Das'
+        who-are-you: 'Susovan Das'
     # Use the output from the `hello` step
     - name: Get the output time
       run: echo "The time was ${{ steps.hello.outputs.time }}"
