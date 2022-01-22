@@ -1,7 +1,7 @@
 const core = require('@actions/core')
 const github = require('@actions/github')
 
-const DEFAULT_NAME = 'Testing..'
+const DEFAULT_NAME = 'Testing..';
 
 try {
 
