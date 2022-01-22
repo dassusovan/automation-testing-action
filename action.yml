@@ -1,13 +1,17 @@
 name: 'Hello World'
 description: 'Greet someone and record the time'
+author: 'Susovan Das'
+
 inputs:
   who-are-you:  # id of input
     description: 'Who are you'
     required: true
     default: 'World'
+
 outputs:
   time: # id of output
     description: 'The time we greeted you'
+    
 runs:
   using: 'node12'
   main: 'index.js'
