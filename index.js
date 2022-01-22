@@ -6,7 +6,7 @@ const DEFAULT_NAME = 'Testing..';
 try {
 
     // `who-to-greet` input defined in action metadata file
-    const nameToGreet = core.getInput('who-are-you') || DEFAULT_NAME;
+    const nameToGreet = core.getInput('who-to-greet') || DEFAULT_NAME ;
     console.log(`Hello ${nameToGreet}!`);
     const time = (new Date()).toTimeString();
     core.setOutput("Time", time);
