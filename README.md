@@ -1,6 +1,6 @@
 ## Automation testing actions
 
-Soon will relase below Actions
+Soon will release below Actions
 
 > Action for Web Automation 
  * Java Project
