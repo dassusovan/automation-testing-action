@@ -16,6 +16,6 @@ Soon will release below Actions
 
 > How to use
 ```
-- name: Happy_Testing_susovan
+- name: Setup Automation Testing
   uses: dassusovan/automation-testing-action@v1
 ```
